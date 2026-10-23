@@ -13,8 +13,6 @@ Fernando Bonfim Hoefle - RM: 569920
 
 Anna Cecília Guimarães M. Lima de Carvalho - RM: 570955
 
-Disciplina: [preencher] · Turma: [preencher]
-
 ## Problema
 
 Quem vai carregar o carro quer saber quanto vai pagar antes de começar, e a estação precisa

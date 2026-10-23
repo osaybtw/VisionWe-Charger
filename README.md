@@ -4,7 +4,6 @@ Estação de recarga de veículos elétricos, com cálculo de energia e custo po
 Projeto da Sprint 4 (Python + Tkinter), evolução do simulador feito em C nas Sprints 1 a 3.
 
 ## Equipe VisionWe
-<img width="92" height="240" alt="image" src="https://github.com/user-attachments/assets/22c9228c-ea92-4c51-823e-8909c679f900" />
 
 Arthur de Oliveira Carvalho - RM: 573499
 

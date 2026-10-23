@@ -5,11 +5,13 @@ Projeto da Sprint 4 (Python + Tkinter), evolução do simulador feito em C nas S
 
 ## Equipe VisionWe
 
-| Nome | RM |
-|------|----|
-| [preencher] | [preencher] |
-| [preencher] | [preencher] |
-| [preencher] | [preencher] |
+Arthur de Oliveira Carvalho - RM: 573499
+
+Gabriel Henrique S. de Melo Rodrigues - RM: 573093
+
+Fernando Bonfim Hoefle - RM: 569920
+
+Anna Cecília Guimarães M. Lima de Carvalho - RM: 570955
 
 Disciplina: [preencher] · Turma: [preencher]
 
@@ -72,17 +74,6 @@ VisionWe_Charger/
 ├── Interface.py          janela principal: cabeçalho, menu e troca de telas
 ├── VisionWeCharger.py    lógica: sessões, tarifa, tabela, busca, ordenação, estatísticas
 ├── testes.py             testes da lógica
-├── telas/
-│   ├── recarga.py        nova sessão de recarga
-│   ├── simulacao.py      simular recarga
-│   ├── sessoes.py        lista, ordenação e finalizar sessão
-│   ├── consulta.py       buscar sessão
-│   ├── estatisticas.py   estatísticas da estação
-│   └── estilo.py         cores, fontes e peças de tela
-├── imagens/              prints do README
-└── versao_em_C/
-    └── recarga.c         versão original do simulador, em C
-```
 
 ## Algoritmos e complexidade
 

@@ -57,18 +57,6 @@ Uma recarga das 21h às 23h30, por exemplo, paga R$ 1,20 nas duas primeiras hora
 - **Buscar sessão**: busca por ID, com busca linear ou binária.
 - **Estatísticas**: sessões realizadas, energia fornecida, faturamento, ticket médio, maior e menor consumo.
 
-## Telas
-
-| | |
-|---|---|
-| ![Nova sessão](<img width="899" height="526" alt="image" src="https://github.com/user-attachments/assets/a518f66f-a7d2-46c6-9b43-3f9e24b35453" />
-) | ![Recarga iniciada](<img width="255" height="135" alt="image" src="https://github.com/user-attachments/assets/9c6c3f6a-afa1-47f5-93fd-1a21ad4b8210" />
-) |
-| Nova sessão: confirmação com a tabela por hora | Recarga iniciada |
-| ![Sessões](<img width="895" height="527" alt="image" src="https://github.com/user-attachments/assets/ad0b0eb3-8c40-47b1-a0d8-7b6c949e611e" />
-) | ![Buscar sessão](<img width="897" height="532" alt="image" src="https://github.com/user-attachments/assets/fcab7064-823c-4713-816d-585f1cc9da9c" />
-) |
-
 ## Estrutura do projeto
 
 ```

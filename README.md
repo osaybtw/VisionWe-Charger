@@ -4,6 +4,7 @@ Estação de recarga de veículos elétricos, com cálculo de energia e custo po
 Projeto da Sprint 4 (Python + Tkinter), evolução do simulador feito em C nas Sprints 1 a 3.
 
 ## Equipe VisionWe
+<img width="92" height="240" alt="image" src="https://github.com/user-attachments/assets/22c9228c-ea92-4c51-823e-8909c679f900" />
 
 Arthur de Oliveira Carvalho - RM: 573499
 
@@ -60,12 +61,13 @@ Uma recarga das 21h às 23h30, por exemplo, paga R$ 1,20 nas duas primeiras hora
 
 | | |
 |---|---|
-| ![Nova sessão](imagens/01_nova_sessao_confirmar.png) | ![Recarga iniciada](imagens/02_recarga_iniciada.png) |
+| ![Nova sessão](<img width="899" height="526" alt="image" src="https://github.com/user-attachments/assets/a518f66f-a7d2-46c6-9b43-3f9e24b35453" />
+) | ![Recarga iniciada](<img width="255" height="135" alt="image" src="https://github.com/user-attachments/assets/9c6c3f6a-afa1-47f5-93fd-1a21ad4b8210" />
+) |
 | Nova sessão: confirmação com a tabela por hora | Recarga iniciada |
-| ![Sessões](imagens/03_sessoes.png) | ![Buscar sessão](imagens/04_busca.png) |
-| Lista e ordenação de sessões | Busca binária |
-| ![Estatísticas](imagens/05_estatisticas.png) | ![Simulação](imagens/06_simulacao.png) |
-| Estatísticas da estação | Simulação com mudança de tarifa |
+| ![Sessões](<img width="895" height="527" alt="image" src="https://github.com/user-attachments/assets/ad0b0eb3-8c40-47b1-a0d8-7b6c949e611e" />
+) | ![Buscar sessão](<img width="897" height="532" alt="image" src="https://github.com/user-attachments/assets/fcab7064-823c-4713-816d-585f1cc9da9c" />
+) |
 
 ## Estrutura do projeto
 
